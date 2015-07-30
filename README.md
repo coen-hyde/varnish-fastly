@@ -1,7 +1,7 @@
 Varnish 2.1.5
 =============
 
-This is build of an old version of Varnish (same version Fastly uses).
+This is an old version of Varnish (same version Fastly uses).
 
 Usage
 -----
